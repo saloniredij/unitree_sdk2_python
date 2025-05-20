@@ -1,0 +1,6 @@
+torch 
+torchvision
+seaborn
+opencv-python
+ultralytics
+nanotrack
